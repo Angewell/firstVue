@@ -3,7 +3,7 @@
 > first vue project
 
 ## Build Setup
-# 由于该项目没有用到eslint来检验代码格式，所以，初始化的时候不要用开启eslint，如果开启了会报错
+#### 由于该项目没有用到eslint来检验代码格式，所以，初始化的时候不要用开启eslint，如果开启了会报错
 
 ``` bash
 # install dependencies
